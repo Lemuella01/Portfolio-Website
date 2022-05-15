@@ -99,11 +99,12 @@ padding-top: 7px;
 }
 
 .side{
+  
   background-image: url(./image/WhatsApp_Image_2022-05-04_at_8.58.15_PM-removebg\ \(1\).png);
   background-color: rgb(186, 205, 223);
   background-size: cover;
   background-position: center;
-  width: 555px;
+  width: 595px;
   height: 630px;
 }
 
@@ -281,6 +282,10 @@ padding-top: 7px;
   font-size: 15px;
   line-height: 1.5;
   text-transform: capitalize;
+}
+
+#aboutme{
+  transition: .8s;
 }
 
 .boxer .box1 img{
